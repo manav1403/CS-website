@@ -1,0 +1,16 @@
+hotelList = [{"name": "Chandra Inn", "contact": "0291-2670610, 0291-5103791,02912670583", "address": "Airport Rd, Air Force Area, Jodhpur, Rajasthan 342001, India", "lat": 26.266431, "lng": 73.038535, "tarrif": "2500-2800"},
+{"name": "Hotel Priya", "contact": "0291-2547463, 0291-2547879, 09414475439", "address": "182, Sojati Gate,, 181-182, Nai Sarak, Sojati Gate, Rawaton Ka Bass, Jodhpur, Rajasthan 342001, India", "lat": 26.2887248, "lng": 73.0259256, "tarrif": "1000-1200"},
+{"name": "Hotel Suncity International", "contact": "9636033999", "address": "Panchbatti Circle, Airport Road, Jodhpur, Rajasthan 342011, India", "lat": 26.2675896, "lng": 73.0386755, "tarrif": "1800-2100"},
+{"name": "Youth Hostel", "contact": "0291-2517160", "address": "P3, Rajasthan State Highway 61, Hanwant Nagar, Ratanada, Jodhpur, Rajasthan 342001, India", "lat": 26.2769956, "lng": 73.0361546, "tarrif": "500-750"},
+{"name": "Rajputana Palace", "contact": "91 291 5153600", "address": "Panch Batti Circle ,Ratanada, Airport Road, Jodhpur, Rajasthan 342011, India", "lat": 26.266451, "lng": 73.038144, "tarrif": "2500-3500"},
+{"name": "Hotel Galaxy", "contact": "0291-2625098", "address": "Police Line Rd, Ratanada, Jodhpur, Rajasthan 342001, India", "lat": 26.2880927, "lng": 73.02595600000001, "tarrif": "800-1200"},
+{"name": "Hotel Soner", "contact": "0291-2626732 , 9828508080", "address": "5, Nai Sarak, Near Janta Sweet Home, Nai Sarak Chauraha, Nai Sarak, Near Janta Sweet Home, Nai Sarak Chauraha, Rawaton Ka Bass, Jodhpur, Rajasthan 342001, India", "lat": 26.2890321, "lng": 73.0255202, "tarrif": "400-950"},
+{"name": "Baba Haveli ", "contact": " 088903 66857", "address": "Near Clock Tower Solanki Dairy, Ummed Chowk, Jodhpur, Rajasthan 342001, India", "lat": 26.298619, "lng": 73.024446, "tarrif": "600-900"},
+{"name": "Hotel Raman Palace", "contact": "0291 251 3980", "address": "Opposite Kesar Bagh, Shiv Mandir Rd, Ratanada, Jodhpur, Rajasthan 342001, India", "lat": 26.281134, "lng": 73.02935599999999, "tarrif": "800-1800"},
+{"name": "Hotel Jasol Heritage", "contact": "0291-2513036", "address": "Jasol House, Police Line Rd, Ratanada, Jodhpur, Rajasthan 342011, India", "lat": 26.2768265, "lng": 73.0337559, "tarrif": "1200-1600"},
+{"name": "Chandra Grand", "contact": "073400 64989", "address": "E6A, MANDORE INDUSTRIAL AREA, 9 MILE, MANDORE, Jodhpur, Rajasthan 342007, India", "lat": 26.391248, "lng": 73.072261, "tarrif": "2200-3000"},
+{"name": "Laxmi Guest House", "contact": "085609 80450", "address": "NH 65 bang opposite NLU, Jodhpur, India", "lat": 26.3638423, "lng": 73.0562704, "tarrif": "1000"},
+{"name": "Hotel Red Oak", "contact": "9414410691", "address": "Near Over Bridge, Mandore, Jodhpur, Jodhpur, Rajasthan 342304, India", "lat": 26.348747, "lng": 73.038873, "tarrif": "800-1200"},
+{"name": "Baba Ramdev Guest House", "contact": "9784274020", "address": "Near Mandore Overbridge, Mandore, Jodhpur, Rajasthan 342304, India", "lat": 26.348558, "lng": 73.03804699999999, "tarrif": "450-900"},
+{"name": "Mandore Guest House", "contact": "0291 254 5210", "address": "Dadawari Lane Near, Mandore Rd, Mandore, Jodhpur, Rajasthan 342006, India", "lat": 26.3503789, "lng": 73.0400236, "tarrif": "2250"}
+];

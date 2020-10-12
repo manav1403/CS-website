@@ -1,0 +1,25 @@
+#mapid {
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+}
+#stats {
+    /*height: 280px;
+    width: 220px;*/
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: rgba(255,255,255,0.7);
+    z-index: 99;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+    font-family: 'Lato', sans-serif;
+
+}
+#heading {
+    margin: auto;
+    text-align: center;
+}

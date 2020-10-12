@@ -1,0 +1,1 @@
+Crop all the images to 1600x1067 pixels for stability of gallery!
