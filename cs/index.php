@@ -2,7 +2,7 @@
 include 'head.html';
 ?>
     <head>
-        <title>Counselling Service - IIT Jodhpur</title>
+        <title>Student Wellbeing Committe - IIT Jodhpur</title>
     </head>
     <body>
 <div id="fb-root"></div>
@@ -51,7 +51,7 @@ include 'navbar.html';
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
                     <li>
-                        <h2 class="h2-responsive">Counselling Service</h2>
+                        <h2 class="h2-responsive">Student Wellbeing Committe</h2>
                         <h4 class="h4-responsive">IIT Jodhpur</h4>
                     </li>
                 </ul>
@@ -186,7 +186,7 @@ include 'navbar.html';
             <div class="col-sm-12 card-block m-0 pt-5">
                 <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
                     both academically and personally. As the time passes, there will be various challenges waiting for you.
-                    We, the Student Counselling Service is devoted to provide personal guidance and necessary resources to students
+                    We, the Student Student Wellbeing Committe is devoted to provide personal guidance and necessary resources to students
                     to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
                     home away from home for you.</p>
             </div>

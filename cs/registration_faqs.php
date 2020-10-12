@@ -46,7 +46,7 @@ include 'navbar.html';
                     proof of address, identity proof, passport size photographs, caste certificate(if needed),
                     domicile certificates and other document shown at official website. Date of registration will
                     be released soon. The procedure for registration will be explained in detail by the members of
-                    counselling service after reaching the college.
+                    Student Wellbeing Committe after reaching the college.
                 </div>
             </div>
         </div>
