@@ -13,79 +13,73 @@ include 'head.html';
     ?>
     <script>
         document.getElementById('nav-2').classList.add('active');
-        document.getElementById('nav-2-1').classList.add('active');
+        document.getElementById('nav-2-3').classList.add('active');
         document.getElementById('nav-2').children[0].innerHTML += '<span class="sr-only">(current)</span>';
     </script>
     <div class="top-fixer-2"></div>
     <!--Section: Team v.1-->
     <section class="section team-section container">
+    <div id="section-2">
+        <div class="container text-center pt-1 mb-1">
+            <div class="row flex-center nav-justified">
+                <ul id="gallery-nav" class="nav nav-tabs col tabs-4 blue darken-2" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#pginfo" role="tab">PG Team Information</a>
+                    </li>
+                </ul>
+                <div class="tab-content text-justify">
+                    <!--pginfo-->
+                    <div class="tab-pane fade in show active" id="pginfo" role="tabpanel">
+                        <div class="col-md-12">
+                            <div class="mdb-lightbox">
+                                <div class="row flex-center">
+                                <?php
+                                $dir = './images/pg-pamphlet/';
+                                $dir_open = opendir($dir);
 
-        <!--Section heading-->
-        <h1 class="section-heading">Our Team</h1>
-        <!--Section description-->
-        <p class="section-description"></p>
-        <div class="row text-center">
+                                while (false !== ($filename = readdir($dir_open))) {
+                                    if ($filename != "." && $filename != "..") {
+                                        $link = "<figure class=\"col-md-4 col-sm-6 col-6\">
+                        <a href='$dir$filename' data-size=\"1600x1067\">
+                            <img src=\"images/loader.gif\" data-src=\"$dir"."$filename\" class=\"lazyload img-fluid\">
+                        </a>
+                    </figure>
+                    ";
+                                        echo $link;
+                                    }
+                                }
 
-            <!--First column-->
-            <div class="col-lg-12 col-md-12 mb-r">
-
-                <div class="avatar">
-                    <img src="images/sqloader.gif" data-src="images/avatar/ankitasharma.png" class="lazyload rounded-circle">
+                                closedir($dir_open);
+                                ?>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Panel 1-->
                 </div>
-                <h4>Dr. Ankita Sharma</h4>
-                <h5>Faculty Advisor</h5>
+				<div class="row flex-center">
+				<div class="col-sm-4 card-block">
+                <!--Card-->
+                <div class="card">
 
-                <a class="icons-sm email-ic" href="mailto:ankitasharma@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
-                <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/ankitabhu"><i class="fa fa-facebook"> </i></a>
-                 <div class="avatar">
-                    <img src="images/sqloader.gif" data-src="images/avatar/Prasenjeet_Tribhuvan.jpg" class="lazyload rounded-circle">
+                    <!--Card image-->
+                    <img class="img-fluid" src="images/form.png" alt="Forms">
+                    <!--/.Card image-->
+
+                    <!--Card content-->
+                    <div class="card-block" style="height: 12.5rem;">
+                        
+                        <!--Text-->
+                        <p class="card-text">
+                        <a href="https://forms.gle/6CBJbsLUcVAcSYuo7">PG Query Form</a>
+                         
+                        </p>
+                    </div>
+                    <!--/.Card content-->
                 </div>
-                <h4>Dr. Prasenjeet Tribhuvan</h4>
-                <h5>Faculty Advisor</h5>
-
-                <a class="icons-sm email-ic" href="mailto:prasenjeet@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
-                 <div class="avatar">
-                    <img src="images/sqloader.gif" data-src="images/avatar/Saakshi_Dhanekar.jpg" class="lazyload rounded-circle">
-                </div>
-                <h4>Dr. Saakshi Dhanekar</h4>
-                <h5>Faculty Advisor</h5>
-
-                <a class="icons-sm email-ic" href="mailto:saakshi@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
-          </div>
-            <div class="col-lg-12 col-md-12 mb-r animate-profile invisible">
-
-                <div class="avatar">
-                    <img src="images/sqloader.gif" data-src="images/avatar/prasad_gadkari.jpg" class="lazyload rounded-circle">
-                </div>
-                <h4>Prasad Gadkari</h4>
-                <h5>Student Counselor</h5>
-                <h5><strong>Contact : </strong>+91 98223 55796</h5>
-                <a class="icons-sm email-ic" href="mailto:studentcounsellor@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
-            </div>
-            
-		</div>
-        <div class="divider-new">
-            <h2 class="h2-responsive">Student Heads</h2>
+            </div>		
         </div>
-        <div class="row text-center" id="head">
-            <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
-                <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/Shivangi.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-                <h4>Shivangi</h4>
-                <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919458468064">+91-9458468064</a></h5>
-                <h5><strong>Hometown: </strong>Mathura, Uttar Pradesh<br><strong>Course: </strong>M.Tech-PhD <strong>Branch: </strong>BB</h5>
-                <a class="icons-sm email-ic" href="mailto:sharma.48@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            </div>
-            <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
-                <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/Hemant_Shrivastava.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-                <h4>Hemant Shrivastava</h4>
-                <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917737722998">+91-7737722998</a></h5>
-                <h5><strong>Hometown: </strong>Bundi, Rajasthan<br><strong>Course: </strong>M.Tech <strong>Branch: </strong>EE(SIot)</h5>
-                <a class="icons-sm email-ic" href="mailto:hemanth@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-                <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/hemant0312"><i class="fa fa-facebook"> </i></a>
-                <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_hemant_shrivastava/"><i class="fa fa-instagram"> </i></a>
-            </div>
-
-        </div>
+    </div>
         <div class="divider-new">
             <h2 class="h2-responsive">Student Guides</h2>
         </div>
