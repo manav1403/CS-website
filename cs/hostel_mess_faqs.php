@@ -166,7 +166,7 @@ include 'navbar.html';
             <!--First column-->
             <div class="col-md-5 offset-md-2">
                 <h5 class="title">CS - IITJ</h5>
-                <p>IIT Jodhpur Student Wellbeing Committe team will be happy to help you anytime.</p>
+                <p>IIT Jodhpur Student Wellbeing Committee team will be happy to help you anytime.</p>
                 <p>Join our freshers' forum:</p>
                 <a class="btn btn-lg btn-fb" role="button"
                    href="https://www.facebook.com/profile.php?id=534300236607966" target="_blank"><i
@@ -207,7 +207,7 @@ include 'navbar.html';
     <!--Copyright-->
     <div class="footer-copyright">
         <div class="container-fluid">
-            © 2018 Copyright: <a href="index.php">Student Wellbeing Committe - IIT Jodhpur </a>
+            © 2018 Copyright: <a href="index.php">Student Wellbeing Committee - IIT Jodhpur </a>
 
         </div>
     </div>
