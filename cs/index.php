@@ -51,7 +51,7 @@ include 'navbar.html';
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
                     <li>
-                        <h2 class="h2-responsive">Student Wellbeing Committe</h2>
+                        <h2 class="h2-responsive">Student Wellbeing Committee</h2>
                         <h4 class="h4-responsive">IIT Jodhpur</h4>
                     </li>
                 </ul>
@@ -183,12 +183,15 @@ include 'navbar.html';
             <h2 class="h2-responsive">Our Motto</h2>
         </div>
         <div class="row">
-            <div class="col-sm-12 card-block m-0 pt-5">
-                <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction
-                    both academically and personally. As the time passes, there will be various challenges waiting for you.
-                    We, the Student Student Wellbeing Committee is devoted to provide personal guidance and necessary resources to students
-                    to deal with all these challenges. The team tries to ensure that IITJ is not just an institute, but a
-                    home away from home for you.</p>
+            <div class="col-sm-12 m-0">
+                <p class="text-justify">The upcoming years of your stay at IIT Jodhpur will give your life a new direction both academically and personally. As the time passes, there will be various challenges waiting for you. 
+                    We, the Student Wellbeing Committee is devoted to providing personal guidance and necessary resources to students to deal with all these challenges. The team tries to ensure that IITJ is not just an institute,
+                    but a home away from home for you  </p>
+            </div>
+            <div class="col-sm-12 m-0">
+                <p class="text-center"><i><b>"Need help" </b>, maintain confidentiality?? 
+                <a href="https://yourdost.com/">Click here </a>
+                and YourDost is here to hear you.</i></p>
             </div>
             <!-- <div class="col-sm-4 m-0 pt-0"> -->
                 <!-- <div class="text-justify card mt-2" role="list" style="height: 16rem;"> -->
@@ -343,9 +346,9 @@ include 'navbar.html';
                 </div>
 
                 <div id="auto">
-                    <a href="mailto:counselling@iitj.ac.in" class="btn-floating btn-small mdb-color"><i class="fa fa-envelope"></i></a>
+                    <a href="mailto:wellbeing@iitj.ac.in" class="btn-floating btn-small mdb-color"><i class="fa fa-envelope"></i></a>
                     <p>Email us at</p>
-                    <p><a href="mailto:counselling@iitj.ac.in">counselling@iitj.ac.in</a></p>
+                    <p><a href="mailto:wellbeing@iitj.ac.in">wellbeing@iitj.ac.in</a></p>
                 </div>
                 <!--                <div class="mt-2">-->
                 <!--                    <h3 class="h3-responsive">Autorickshaws:</h3>-->

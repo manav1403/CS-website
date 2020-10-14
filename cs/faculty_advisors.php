@@ -55,12 +55,12 @@ include 'navbar.html';
         </div>
         <div class="col-lg-6 col-md-12 mb-r animate-profile invisible">
             <div class="avatar">
-                <img src="images/sqloader.gif" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Pankaj_Yadav.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Dr. Pankaj Yadav</h4>
             <h5>Faculty Advisor</h5>
-            <!-- <h5><strong>Contact : </strong>0291-2801408</h5>
-            <a class="icons-sm email-ic" href="mailto:prasenjeet@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
+            <h5><strong>Contact : </strong>0291-2801211</h5>
+            <a class="icons-sm email-ic" href="mailto:pyadav@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
     </div>
 </section>

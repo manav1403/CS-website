@@ -2,7 +2,7 @@
 include 'head.html';
 ?>
 <head>
-    <title>Gallery - Student Wellbeing Committe</title>
+    <title>Gallery - Student Wellbeing Committee</title>
 </head>
 <body>
 <!--Navbar-->
