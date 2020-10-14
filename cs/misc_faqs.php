@@ -262,7 +262,7 @@ include 'navbar.html';
     <div class="social-section">
         <ul>
             <li><a target="_blank" class="btn-floating btn-small btn-fb"
-                   href="https://www.facebook.com/CounsellingService.IITJodhpur/"><i class="fa fa-facebook"> </i></a>
+                   href="https://www.facebook.com/SWC.IITJodhpur/"><i class="fa fa-facebook"> </i></a>
             </li>
         </ul>
     </div>

@@ -193,24 +193,6 @@ include 'navbar.html';
                 <a href="https://yourdost.com/">Click here </a>
                 and YourDost is here to hear you.</i></p>
             </div>
-            <!-- <div class="col-sm-4 m-0 pt-0"> -->
-                <!-- <div class="text-justify card mt-2" role="list" style="height: 16rem;"> -->
-                    <!-- <h3 class="h3-responsive card-header"><strong>Announcements</strong></h4></h3>
-                    <ol class="card-block pl-5" style="overflow-y: scroll;">
-                        <li>
-                            A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
-                            arranged from the MBM Engineering College to IIT Jodhpur Permanent Campus(Karwar) via Railway Station on 22nd
-                            July 2018. To know more <a href="bus_schedule.php">click here</a>.
-                        </li>
-                        <br>
-                        <li>All those who are not able to pay the fee using online payment portal i.e. Credit/Debit
-                            Card or Net banking can pay the fee by making two separate Demand Drafts(DD) for the Semester
-                            Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
-                            payable at IIT Jodhpur.
-                        </li>
-                    </ol> -->
-                <!-- </div> -->
-            <!-- </div> -->
         </div>
         <div class="divider-new">
             <h2>Info</h2>
@@ -231,7 +213,6 @@ include 'navbar.html';
                         <!--Text-->
                         <p class="card-text">
                         <ol>
-							<li><a href="cs_pg2020.php">CS-PG2020</a></li>
                             <li><a href="map/index.html">Hotel Map</a></li>
                             <li><a href="bus_schedule.php">Bus Schedule</a></li>
                             <li><a href="form_required.php">Forms and Documents</a></li>
@@ -242,75 +223,92 @@ include 'navbar.html';
                     <!--/.Card content-->
                 </div>
             </div>
-
             <div class="col-sm-4 card-block">
+                <div class="text-justify card " role="list" style="height: 22rem;">
+                    <h3 class="h3-responsive card-header">Announcements</h4></h3>
+                    <ol class="card-block pl-5" style="overflow-y: scroll;">
+                        <!-- <li>
+                            A help desk will be there on the <b>Platform No. 1 on Jodhpur Jn.(Railway Station).</b> The buses will be
+                            arranged from the MBM Engineering College to IIT Jodhpur Permanent Campus(Karwar) via Railway Station on 22nd
+                            July 2018. To know more <a href="bus_schedule.php">click here</a>.
+                        </li>
+                        <br>
+                        <li>All those who are not able to pay the fee using online payment portal i.e. Credit/Debit
+                            Card or Net banking can pay the fee by making two separate Demand Drafts(DD) for the Semester
+                            Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
+                            payable at IIT Jodhpur.
+                        </li> -->
+                    </ol>
+                </div>
+            </div>
+            <!-- <div class="col-sm-4 card-block">
                 <div class="card">
-                    <!--<img class="img-fluid" src="images/dates.png" alt="Arrival dates">-->
+                    <img class="img-fluid" src="images/dates.png" alt="Arrival dates">
                     <div class="card-block" style="height: 12.5rem;">
                         <h4 class="card-title">Arrival Dates</h4>
                         <p class="card-text">
                         <ul>
-                           <!-- <li>The reporting date for UG students is July 23, 2019</li>-->
-                            <li>Orientation date for PG students is August 30, 2020</li>
+                           <li>The reporting date for UG students is July 23, 2019</li>
+                            <li>Coming soon</li>
                         </ul>
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-sm-4 card-block">
                 <!--Card-->
                 <div class="card hidden-lg-down" style="padding: 0.6rem;">
-                    <div class="fb-page text-center" data-href="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                    <div class="fb-page text-center" data-href="https://www.facebook.com/SWC.IITJodhpur/"
                          data-tabs="timeline" data-small-header="false" data-adapt-container-width="true"
                          data-height="335" data-hide-cover="false" data-show-facepile="true">
-                        <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                        <blockquote cite="https://www.facebook.com/SWC.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                                    href="https://www.facebook.com/SWC.IITJodhpur/">IIT Jodhpur
                             </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
                 <div class="card hidden-md-down hidden-xl-up" style="padding: 0.6rem;">
-                    <div class="fb-page text-center" data-href="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                    <div class="fb-page text-center" data-href="https://www.facebook.com/SWC.IITJodhpur/"
                          data-tabs="timeline" data-small-header="false" data-adapt-container-width="true"
                          data-height="305" data-hide-cover="false" data-show-facepile="true">
-                        <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                        <blockquote cite="https://www.facebook.com/SWC.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                                    href="https://www.facebook.com/SWC.IITJodhpur/">IIT Jodhpur
                             </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
                 <div class="card hidden-sm-down hidden-lg-up" style="padding: 0.6rem;">
-                    <div class="fb-page text-center" data-href="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                    <div class="fb-page text-center" data-href="https://www.facebook.com/SWC.IITJodhpur/"
                          data-tabs="timeline" data-small-header="false" data-adapt-container-width="true"
                          data-height="260" data-hide-cover="false" data-show-facepile="true">
-                        <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                        <blockquote cite="https://www.facebook.com/SWC.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                                    href="https://www.facebook.com/SWC.IITJodhpur/">IIT Jodhpur
                             </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
                 <div class="card hidden-xs-down hidden-md-up" style="padding: 0.6rem;">
-                    <div class="fb-page text-center" data-href="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                    <div class="fb-page text-center" data-href="https://www.facebook.com/SWC.IITJodhpur/"
                          data-tabs="timeline" data-small-header="false" data-adapt-container-width="true"
                          data-height="235" data-hide-cover="false" data-show-facepile="true">
-                        <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                        <blockquote cite="https://www.facebook.com/SWC.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                                    href="https://www.facebook.com/SWC.IITJodhpur/">IIT Jodhpur
                             </a></blockquote>
                     </div>
                     <!--/.Card content-->
                 </div>
                 <div class="card hidden-sm-up" style="padding: 0.6rem;">
-                    <div class="fb-page text-center" data-href="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                    <div class="fb-page text-center" data-href="https://www.facebook.com/SWC.IITJodhpur/"
                          data-tabs="timeline" data-small-header="false" data-adapt-container-width="true"
                          data-height="330" data-hide-cover="false" data-show-facepile="true">
-                        <blockquote cite="https://www.facebook.com/CounsellingService.IITJodhpur/"
+                        <blockquote cite="https://www.facebook.com/SWC.IITJodhpur/"
                                     class="fb-xfbml-parse-ignore"><a
-                                    href="https://www.facebook.com/CounsellingService.IITJodhpur/">IIT Jodhpur
+                                    href="https://www.facebook.com/SWC.IITJodhpur/">IIT Jodhpur
                             </a></blockquote>
                     </div>
                     <!--/.Card content-->
