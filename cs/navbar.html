@@ -62,10 +62,6 @@
                     <li class="nav-item" id="nav-8">
                         <a class="nav-link" href="bus_schedule.php">Bus Schedule</a>
                     </li> -->
-
-                    <li class="nav-item" id="nav-9">
-                        <a class="nav-link" href="coming_soon.php">YourDost</a>
-                    </li>
                     <li class="nav-item dropdown btn-group" id="nav-10">
                         <a class="nav-link dropdown-toggle" id="dropdownMenu10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">QuickLinks</a>
                         <div class="dropdown-menu dropdown" aria-labelledby="dropdownMenu10">
@@ -74,6 +70,9 @@
                             <a href="http://iitj.ac.in/department/facultyprofile.php?str=samanwita@iitj.ac.in&dept=chemistry" id="nav-10-3" class="dropdown-item">Assoc. Dean (Students)</a>
                             <a href="http://iitj.ac.in/" id="nav-10-3" class="dropdown-item">IITJ</a>
                         </div>
+                    </li>
+                    <li class="nav-item" id="nav-9">
+                        <a class="nav-link" href="coming_soon.php">YourDost</a>
                     </li>
 					
                 </ul>
@@ -137,9 +136,20 @@
 .nav-item{
     margin: 0 10px;
 }
-@media only screen and (min-width: 600px){
-    #navbarNav1{
+#navbarNav1{
         margin-left: 10%
+    }
+@media screen and (max-width: 1000px){
+    #navbarNav1{
+        margin-left: 0%
+    }
+}
+@media screen and (max-width: 1300px){
+.nav-item{
+    margin: 0 1px;
+}
+#navbarNav1{
+        margin-left: 5%
     }
 }
 </style>
