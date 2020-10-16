@@ -324,8 +324,11 @@ include 'navbar.html';
     </div>
     <div class="row">
         <div class="col-sm-8">
-            <div id="map-container" class="z-depth-1-half map-container" data-adapt-container-width="true"
-                 style="height: 400px"></div>
+            <!-- <div id="map-container" class="z-depth-1-half map-container" data-adapt-container-width="true"
+                 style="height: 400px"></div> -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14286.094429990404!2d73.1134335!3d26.4710809!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6c9a5a9b08db22e!2sIndian%20Institute%20of%20Technology%20Jodhpur!5e0!3m2!1sen!2sin!4v1602858418102!5m2!1sen!2sin" 
+                    width="700" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+                </iframe>
         </div>
         <div class="col-sm-4">
             <div class="row text-center flex-center flex-column">
@@ -384,7 +387,6 @@ include 'navbar.html';
 <!-- Bootstrap core JavaScript -->
 <script type="text/javascript" src="js/compiled.min.js"></script>
 <!-- MDB core JavaScript -->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyBwt2_JRQm6pHP0Zixc82kwtPWVy1dyKRE"></script>
 <script src="js/home-map.js"></script>
 <script src="js/carousel.js"></script>
 <br>
