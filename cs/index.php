@@ -238,6 +238,14 @@ include 'navbar.html';
                             Fee and the Mess Fee in the favour of <b><u>Fees Collection Account IIT Jodhpur</u></b>
                             payable at IIT Jodhpur.
                         </li> -->
+                        <li>
+                        Dear Students,<br>
+                        Congratulations on qualifying in JEE (Advanced) 2020 and thank you for choosing IIT Jodhpur. IIT<br>
+                        Jodhpur welcomes you…
+                        </li>
+                        <li>
+                        Dates and intructions for registration <a href="http://iitj.ac.in/uploaded_docs/B.tech%20ADMISSION%202020-21_10112020.pdf">Click Here</a>
+                        </li>
                     </ol>
                 </div>
             </div>
