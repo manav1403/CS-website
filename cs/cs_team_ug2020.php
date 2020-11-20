@@ -132,7 +132,7 @@ include 'navbar.html';
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Nidhi Sharma</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918521359301">+91-6395177472</a></h5>
+                    href="https://api.whatsapp.com/send?phone=6395177472">+91-6395177472</a></h5>
             <h5><strong>Hometown: </strong>Jewar, Uttar Pradesh<br><strong>Branch: </strong>BB</h5>
             <p>A person who is always happy to help.</p>
             <a class="icons-sm email-ic" href="mailto:sharma.28@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
@@ -144,7 +144,7 @@ include 'navbar.html';
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Nitish Jain</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918521359301">+91-9571080180</a></h5>
+                    href="https://api.whatsapp.com/send?phone=9571080180">+91-9571080180</a></h5>
             <h5><strong>Hometown: </strong>Agra, Uttar Pradesh<br><strong>Branch: </strong>ME</h5>
             <a class="icons-sm email-ic" href="mailto:jain.25@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/nitish.jain.549221"><i class="fa fa-facebook">
@@ -157,7 +157,7 @@ include 'navbar.html';
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Yashvi Ramanuj</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=918521359301">+91-6354890328</a></h5>
+                    href="https://api.whatsapp.com/send?phone=6354890328">+91-6354890328</a></h5>
             <h5><strong>Hometown: </strong>Rajkot, Gujarat<br><strong>Branch: </strong>CSE</h5>
             <p>Affable. Prudent. Forthright.</p>
             <a class="icons-sm email-ic" href="mailto:yashvi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
@@ -187,6 +187,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/manav-kapoor-14a14018a/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB048(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Tushar Sharma</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9682512127">+91-9682512127</a></h5>
+            <h5><strong>Hometown: </strong>Jammu, Jammu & Kashmir<br><strong>Branch: </strong>BSBE</h5>
+            <p>Talks are cheap, show me the code.</p>
+            <a class="icons-sm email-ic" href="mailto:sharma.54@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100039609943145"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_tushar_0711_/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/tushar-sharma-018231190/"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
     <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE002(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -203,24 +219,23 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/abhinav-kashyap-4b73721b0"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE004(SG).jpeg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE038(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Abhishek Raghav</h4>
+            <h4>Harshil Bhatia</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=7043102075">+91-7043102075</a></h5>
-            <h5><strong>Hometown: </strong>Bulandshahr, Uttar Pradesh<br><strong>Branch: </strong>CSE</h5>
-            <p>Explore and Learn !</p>
-            <a class="icons-sm email-ic" href="mailto:raghav.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/people/Abhishek-Raghav/100046265702807"><i
+                    href="https://api.whatsapp.com/send?phone=8588971450">+91-8588971450</a></h5>
+            <h5><strong>Hometown: </strong>Delhi<br><strong>Branch: </strong>CSE</h5>
+            <p></p>
+            <a class="icons-sm email-ic" href="mailto:bhatia.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/profile.php?id=100008410540994"><i
                     class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/imraghav20/"><i class="fa fa-instagram">
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/harshil_bhatia_/"><i class="fa fa-instagram">
                 </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/abhishek-raghav-377427199/"><i
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/harshil-bhatia-9a4242198/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
+        
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE005(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -254,6 +269,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://in.linkedin.com/in/akarshit-kumar-verma-a602801a1"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE004(SG).jpeg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Abhishek Raghav</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=7043102075">+91-7043102075</a></h5>
+            <h5><strong>Hometown: </strong>Bulandshahr, Uttar Pradesh<br><strong>Branch: </strong>CSE</h5>
+            <p>Explore and Learn !</p>
+            <a class="icons-sm email-ic" href="mailto:raghav.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/people/Abhishek-Raghav/100046265702807"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/imraghav20/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/abhishek-raghav-377427199/"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB004(SG).jpg"
@@ -272,20 +303,6 @@ include 'navbar.html';
                     class="fa fa-linkedin"> </i> </a>
         </div>
 
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE041(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Jyani Akshay Jagdishbhai</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9537790026">+91-9537790026</a></h5>
-            <h5><strong>Hometown: </strong>Amreli, Gujarat<br><strong>Branch: </strong>EE</h5>
-            <p>Always Be Happy :)</p>
-            <a class="icons-sm email-ic" href="mailto:jyani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/akshay.jyani.77"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/akshay-jyani-163250197"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE012(SG).jpg"
@@ -337,35 +354,31 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/aryan-garg-1bbb791a3/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE041(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Jyani Akshay Jagdishbhai</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9537790026">+91-9537790026</a></h5>
+            <h5><strong>Hometown: </strong>Amreli, Gujarat<br><strong>Branch: </strong>EE</h5>
+            <p>Always Be Happy :)</p>
+            <a class="icons-sm email-ic" href="mailto:jyani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/akshay.jyani.77"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/akshay-jyani-163250197"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE017(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Ashwathi Rajeev</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=7406432999">+91-7406432999</a></h5>
-            <h5><strong>Hometown: </strong>Bangalore Karnataka <br><strong>Branch: </strong>CSE</h5>
+            <h5><strong>Hometown: </strong>Bangalore, Karnataka <br><strong>Branch: </strong>CSE</h5>
             <p>Carving out a new generation of standards.</p>
             <a class="icons-sm email-ic" href="mailto:ashwathi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/ashwathi.rajeev.16"><i
                     class="fa fa-facebook"> </i></a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE022(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Chirag Bhawnani</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9352227385">+91-9352227385</a></h5>
-            <h5><strong>Hometown: </strong>Bhilwara , Rajasthan <br><strong>Branch: </strong>EE</h5>
-            <p>Captivated from life ✨</p>
-            <a class="icons-sm email-ic" href="mailto:bhawnani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href=""><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/chirag_bhawnani_/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/chirag-bhawnani-14bb7a1ab"><i
-                    class="fa fa-linkedin"> </i> </a>
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
@@ -418,7 +431,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/gaurav-sen-318326193/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE022(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Chirag Bhawnani</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9352227385">+91-9352227385</a></h5>
+            <h5><strong>Hometown: </strong>Bhilwara , Rajasthan <br><strong>Branch: </strong>EE</h5>
+            <p>Captivated from life ✨</p>
+            <a class="icons-sm email-ic" href="mailto:bhawnani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href=""><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/chirag_bhawnani_/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/chirag-bhawnani-14bb7a1ab"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE032(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -433,23 +461,6 @@ include 'navbar.html';
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/rajeshwari.gudur.19/"><i class="fa fa-instagram">
                 </i></a>
             <a class="icons-sm git-ic" target="_blank" href=""><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE033(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Guvvala Sujitha</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9390199923">+91-9390199923</a></h5>
-            <h5><strong>Hometown: </strong>Proddatur,Andhra Pradesh<br><strong>Branch: </strong>EE</h5>
-            <p>【Simple and Significant】</p>
-            <a class="icons-sm email-ic" href="mailto:sujitha.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/sujitha.guvvala.9"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sujitha_reddy6/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/guvvala-sujitha-05888b1a6/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
 
@@ -488,23 +499,6 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE038(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Harshil Bhatia</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=8588971450">+91-8588971450</a></h5>
-            <h5><strong>Hometown: </strong>Delhi<br><strong>Branch: </strong>CSE</h5>
-            <p></p>
-            <a class="icons-sm email-ic" href="mailto:bhatia.2@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://m.facebook.com/profile.php?id=100008410540994"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/harshil_bhatia_/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/harshil-bhatia-9a4242198/"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE109(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>J Jahnavi</h4>
@@ -521,22 +515,7 @@ include 'navbar.html';
                     class="fa fa-linkedin"> </i> </a>
         </div>
 
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE040(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Jayesh Khandelwal</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9429429446">+91-9429429446</a></h5>
-            <h5><strong>Hometown: </strong>Surat , Gujarat<br><strong>Branch: </strong>EE</h5>
-            <p>No this ain't a dream, this is my reality.</p>
-            <a class="icons-sm email-ic" href="mailto:khandelwal.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/jayesh.khandelwal.773"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/__jayesh__jk/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/jayesh-khandelwal-6029451b8"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
+        
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19ME033(SG).jpeg"
@@ -554,7 +533,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/jeevesh-jain-9b5014191/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE033(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Guvvala Sujitha</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9390199923">+91-9390199923</a></h5>
+            <h5><strong>Hometown: </strong>Proddatur,Andhra Pradesh<br><strong>Branch: </strong>EE</h5>
+            <p>【Simple and Significant】</p>
+            <a class="icons-sm email-ic" href="mailto:sujitha.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/sujitha.guvvala.9"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sujitha_reddy6/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/guvvala-sujitha-05888b1a6/"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE110(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -588,7 +582,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/kotha-pranith-7ba6481a0/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE040(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Jayesh Khandelwal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9429429446">+91-9429429446</a></h5>
+            <h5><strong>Hometown: </strong>Surat , Gujarat<br><strong>Branch: </strong>EE</h5>
+            <p>No this ain't a dream, this is my reality.</p>
+            <a class="icons-sm email-ic" href="mailto:khandelwal.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/jayesh.khandelwal.773"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/__jayesh__jk/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/jayesh-khandelwal-6029451b8"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE112(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -605,24 +614,6 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/mwlite/in/manav-gopal-1a31841b3"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE095(SG).jpeg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Maniyar Suyash</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9908742346">+91-9908742346</a></h5>
-            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>EE</h5>
-            <p>I'll be there for you:)</p>
-            <a class="icons-sm email-ic" href="mailto:suyash.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href=""><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/suyash_maniyar/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/maniyar-suyash-369451193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3TmE6zZdTt2D8pSwdYovQA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
-
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB031(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -692,6 +683,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/suvarnakanti-chandradeep-426029196"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE095(SG).jpeg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Maniyar Suyash</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=9908742346">+91-9908742346</a></h5>
+            <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>EE</h5>
+            <p>I'll be there for you:)</p>
+            <a class="icons-sm email-ic" href="mailto:suyash.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href=""><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/suyash_maniyar/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/maniyar-suyash-369451193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3TmE6zZdTt2D8pSwdYovQA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19ME070(SG).jpg"
@@ -742,24 +749,6 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/sanskritih"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE078(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Sarthak Raj Jindal</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=8117834375">+91-8117834375</a></h5>
-            <h5><strong>Hometown: </strong>Sambalpur, Odisha<br><strong>Branch: </strong>CSE</h5>
-            <p>idk, google it.</p>
-            <a class="icons-sm email-ic" href="mailto:jindal.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="none"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sarthak.raj.jindal/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/sarthak-raj-jindal-5b74a1197/"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
-
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE077(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
@@ -810,6 +799,22 @@ include 'navbar.html';
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/shubh-doshi-a3a42019b/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
+        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE078(SG).jpg"
+                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+            <h4>Sarthak Raj Jindal</h4>
+            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
+                    href="https://api.whatsapp.com/send?phone=8117834375">+91-8117834375</a></h5>
+            <h5><strong>Hometown: </strong>Sambalpur, Odisha<br><strong>Branch: </strong>CSE</h5>
+            <p>idk, google it.</p>
+            <a class="icons-sm email-ic" href="mailto:jindal.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm fb-ic" target="_blank" href="none"><i
+                    class="fa fa-facebook"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sarthak.raj.jindal/"><i class="fa fa-instagram">
+                </i></a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/sarthak-raj-jindal-5b74a1197/"><i
+                    class="fa fa-linkedin"> </i> </a>
+        </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE082(SG).jpg"
@@ -842,23 +847,6 @@ include 'navbar.html';
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/suyashagno3/"><i class="fa fa-instagram">
                 </i></a>
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/suyash-agnihotri-761b84141/"><i
-                    class="fa fa-linkedin"> </i> </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB048(SG).jpg"
-                    class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Tushar Sharma</h4>
-            <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
-                    href="https://api.whatsapp.com/send?phone=9682512127">+91-9682512127</a></h5>
-            <h5><strong>Hometown: </strong>Jammu, Jammu & Kashmir<br><strong>Branch: </strong>BSBE</h5>
-            <p>Talks are cheap, show me the code.</p>
-            <a class="icons-sm email-ic" href="mailto:sharma.54@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/profile.php?id=100039609943145"><i
-                    class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_tushar_0711_/"><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/tushar-sharma-018231190/"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
 
