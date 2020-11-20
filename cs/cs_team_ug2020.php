@@ -178,7 +178,7 @@ include 'navbar.html';
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=8707540265">+91-8707540265</a></h5>
             <h5><strong>Hometown: </strong>Lucknow,Uttar Pradesh<br><strong>Branch: </strong>EE</h5>
-            <p></p>
+            <p>Yes, I’m crazy. Normal is boring for me.</p>
             <a class="icons-sm email-ic" href="mailto:kapoor.3@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/manav.kapoor.566"><i
                     class="fa fa-facebook"> </i></a>
@@ -188,7 +188,7 @@ include 'navbar.html';
                     class="fa fa-linkedin"> </i> </a>
         </div>
     <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE002(SG).jpg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE002(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Abhinav Kashyap</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -205,7 +205,7 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE004(SG).jpg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE004(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Abhishek Raghav</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -283,8 +283,6 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:jyani.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/akshay.jyani.77"><i
                     class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href=""><i class="fa fa-instagram">
-                </i></a>
             <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/akshay-jyani-163250197"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
@@ -349,18 +347,14 @@ include 'navbar.html';
             <h5><strong>Hometown: </strong>Bangalore Karnataka <br><strong>Branch: </strong>CSE</h5>
             <p>Carving out a new generation of standards.</p>
             <a class="icons-sm email-ic" href="mailto:ashwathi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
-            <a class="icons-sm fb-ic" target="_blank" href=""><i
+            <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/ashwathi.rajeev.16"><i
                     class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href=""><i class="fa fa-instagram">
-                </i></a>
-            <a class="icons-sm git-ic" target="_blank" href=""><i
-                    class="fa fa-linkedin"> </i> </a>
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE022(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
-            <h4>Chirag bhawnani</h4>
+            <h4>Chirag Bhawnani</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=9352227385">+91-9352227385</a></h5>
             <h5><strong>Hometown: </strong>Bhilwara , Rajasthan <br><strong>Branch: </strong>EE</h5>
@@ -392,7 +386,7 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB032(SG).HEIC"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19BB032(SG).jpg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Dhanush peddemoni</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -517,7 +511,7 @@ include 'navbar.html';
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=8688907330">+91-8688907330</a></h5>
             <h5><strong>Hometown: </strong>Hyderabad, Telangana<br><strong>Branch: </strong>CSE</h5>
-            <p>I'll be happy to help :)</p>
+            <p>A multipotentialite</p>
             <a class="icons-sm email-ic" href="mailto:jahnavi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/jahnavi.juluri"><i
                     class="fa fa-facebook"> </i></a>
@@ -729,9 +723,7 @@ include 'navbar.html';
                     class="fa fa-facebook"> </i></a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sandy.exe/"><i class="fa fa-instagram">
                 </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="www.linkedin.com/in/sandesh-singh7
-"><i
-                    class="fa fa-linkedin"> </i> </a>
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/sandesh-singh7"><i class="fa fa-linkedin"> </i> </a>
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
@@ -747,7 +739,7 @@ include 'navbar.html';
                     class="fa fa-facebook"> </i></a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/sanskritii.h/"><i class="fa fa-instagram">
                 </i></a>
-            <a class="icons-sm git-ic" target="_blank" href="www.linkedin.com/in/sanskritih"><i
+            <a class="icons-sm git-ic" target="_blank" href="https://www.linkedin.com/in/sanskritih"><i
                     class="fa fa-linkedin"> </i> </a>
         </div>
 
