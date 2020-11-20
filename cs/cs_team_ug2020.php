@@ -110,7 +110,7 @@ include 'navbar.html';
             <h4>Kunal Tawatia</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=9953511385">+91-9953511385</a></h5>
-            <h5><strong>Hometown: </strong>Ghaziabad, Uttar Pradesh<br><strong>Branch: </strong>EE</h5>
+            <h5><strong>Hometown: </strong>Ghaziabad, Uttar Pradesh<br><strong>Branch: </strong>CSE</h5>
             <p></p>
             <a class="icons-sm email-ic" href="mailto:tawatia.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
         </div>
