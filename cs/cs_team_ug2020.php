@@ -341,7 +341,7 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE017(SG).jpg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19CSE017(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Ashwathi Rajeev</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -477,7 +477,7 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE036(SG).jpg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE036(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Harsh Rajiv Agarwal</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
@@ -613,7 +613,7 @@ include 'navbar.html';
         </div>
 
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
-            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE095(SG).jpg"
+            <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B19EE095(SG).jpeg"
                     class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
             <h4>Maniyar Suyash</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
