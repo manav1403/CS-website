@@ -80,6 +80,28 @@ include 'head.html';
             </div>		
         </div>
     </div>
+    <div class="divider-new">
+            <h2 class="h2-responsive">Student Heads</h2>
+        </div>
+        <div class="row text-center" id="head">
+            <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
+                <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/Shivangi.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+                <h4>Shivangi</h4>
+                <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=919458468064">+91-9458468064</a></h5>
+                <h5><strong>Hometown: </strong>Mathura, Uttar Pradesh<br><strong>Course: </strong>M.Tech-PhD <strong>Branch: </strong>BB</h5>
+                <a class="icons-sm email-ic" href="mailto:sharma.48@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            </div>
+            <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
+                <div class="avatar"><img src="images/sqloader.gif" data-src="images/avatar/Hemant_Shrivastava.jpg" class="lazyload rounded-circle" onerror="this.onerror=null;this.src='images/avatar/missing.png'"></div>
+                <h4>Hemant Shrivastava</h4>
+                <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=917737722998">+91-7737722998</a></h5>
+                <h5><strong>Hometown: </strong>Bundi, Rajasthan<br><strong>Course: </strong>M.Tech <strong>Branch: </strong>EE(SIot)</h5>
+                <a class="icons-sm email-ic" href="mailto:hemanth@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+                <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/hemant0312"><i class="fa fa-facebook"> </i></a>
+                <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/_hemant_shrivastava/"><i class="fa fa-instagram"> </i></a>
+            </div>
+
+        </div>
         <div class="divider-new">
             <h2 class="h2-responsive">Student Guides</h2>
         </div>

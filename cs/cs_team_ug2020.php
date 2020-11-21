@@ -21,7 +21,7 @@ include 'navbar.html';
         <h2 class="h2-responsive">Student Heads</h2>
     </div>
     <div class="row text-center" id = "head">
-        <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
+        <div class="col-lg-6 col-md-6 mb-r animate-profile invisible" style="margin: auto">
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images2/avatar/B17ME019(H).jpg" class="lazyload rounded-circle">
             </div>
