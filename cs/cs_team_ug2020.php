@@ -46,9 +46,13 @@ include 'navbar.html';
             <h4>Dhruv Patel</h4>
             <h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a
                     href="https://api.whatsapp.com/send?phone=9408206000">+91-9408206000</a></h5>
-            <h5><strong>Hometown: </strong>Karad,Maharashtra <br><strong>Branch: </strong>CSE</h5>
+            <h5><strong>Hometown: </strong>Vadodara, Gujarat <br><strong>Branch: </strong>CSE</h5>
             <p>Talk to me to know about me</p>
             <a class="icons-sm email-ic" href="mailto:patel.4@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://twitter.com/realDhruvPatel"><i
+                    class="fa fa-twitter"> </i></a>
+                <a class="icons-sm ins-ic" target="_blank" href="https://www.linkedin.com/in/dhruv-patel-iitj/"><i
+                    class="fa fa-linkedin"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B18CSE013(AH).png"
@@ -61,8 +65,10 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:kumar.67@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm fb-ic" target="_blank" href="https://www.facebook.com/eashan.jindal/"><i
                     class="fa fa-facebook"> </i></a>
-            <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/eashan_jindal/"><i
-                    class="fa fa-instagram"> </i></a>
+            <a class="icons-sm ins-ic" target="_blank" href="https://www.linkedin.com/in/eashanjindal/"><i
+                    class="fa fa-linkedin"> </i></a>
+                    <a class="icons-sm ins-ic" target="_blank" href="https://twitter.com/eashanji"><i
+                class="fa fa-twitter"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B18CSE016(AH).jpg"
@@ -77,6 +83,8 @@ include 'navbar.html';
                 </i></a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/harsh_not_haarsh/"><i
                     class="fa fa-instagram"> </i></a>
+                    <a class="icons-sm ins-ic" target="_blank" href="https://www.linkedin.com/in/harsh1429/"><i
+                    class="fa fa-linkedin"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B18CSE040(AH).jpg"
@@ -91,6 +99,10 @@ include 'navbar.html';
                 </i></a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/kanani.jash/"><i
                     class="fa fa-instagram"> </i></a>
+                    <a class="icons-sm ins-ic" target="_blank" href="https://www.linkedin.com/in/jash-patel-78a998173/"><i
+                    class="fa fa-linkedin"> </i></a>
+                    <a class="icons-sm ins-ic" target="_blank" href="https://github.com/Jashpatel1"><i
+                class="fa fa-github"> </i></a>
         </div>
         <div class="col-lg-4 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B18BB015(AH).jpg"
@@ -138,6 +150,7 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:sharma.28@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/nidhisharma8261/"><i class="fa fa-instagram">
                 </i></a>
+                <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/nidhi-sharma-75928a1b5/"><i class="fa fa-linkedin"></i></a>
         </div>
         <div class="col-lg-6 col-md-6 mb-r animate-profile invisible">
             <div class="avatar"><img src="images/sqloader.gif" data-src="images2/avatar/B18ME039(AH).jpg"
@@ -163,6 +176,7 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:yashvi.1@iitj.ac.in"><i class="fa fa-envelope-o"></i> </a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/yashvi_ramanuj/"><i class="fa fa-instagram">
                 </i></a>
+                <a class="icons-sm li-ic" target="_blank" href="https://www.linkedin.com/in/yashvi-ramanuj/"><i class="fa fa-linkedin"></i></a>
         </div>
     </div>
     
