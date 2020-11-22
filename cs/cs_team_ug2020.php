@@ -67,6 +67,8 @@ include 'navbar.html';
                     class="fa fa-facebook"> </i></a>
             <a class="icons-sm ins-ic" target="_blank" href="https://www.linkedin.com/in/eashanjindal/"><i
                     class="fa fa-linkedin"> </i></a>
+                    <a class="icons-sm ins-ic" target="_blank" href="https://www.instagram.com/eashan_jindal/"><i
+                    class="fa fa-instagram"> </i></a>
                     <a class="icons-sm ins-ic" target="_blank" href="https://twitter.com/eashanji"><i
                 class="fa fa-twitter"> </i></a>
         </div>
