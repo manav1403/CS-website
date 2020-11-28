@@ -188,11 +188,6 @@ include 'navbar.html';
                     We, the Student Wellbeing Committee is devoted to providing personal guidance and necessary resources to students to deal with all these challenges. The team tries to ensure that IITJ is not just an institute,
                     but a home away from home for you  </p>
             </div>
-            <div class="col-sm-12 m-0">
-                <p class="text-center"><i><b>"Need help" </b>, maintain confidentiality?? 
-                <a href="https://yourdost.com/">Click here </a>
-                and YourDost is here to hear you.</i></p>
-            </div>
         </div>
         <div class="divider-new">
             <h2>Info</h2>
