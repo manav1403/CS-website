@@ -84,7 +84,7 @@ include 'head.html';
         if ($page == NULL) $page = 1;
         $page = (int)$page;
         if ($page == 1) $prev_disabled = 'disabled';
-        if ($page == 13) $next_disabled = 'disabled';
+        if ($page == 15) $next_disabled = 'disabled';
 
         $page_navigation = '<nav aria-label="navigation" class="col-lg-12 page-bar">
                 <ul class="pagination justify-content-center">
