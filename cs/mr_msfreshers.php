@@ -3,7 +3,7 @@ include 'head.html';
 ?>
 
 <head>
-    <title>Activities - Mr./Mrs Freshers</title>
+    <title>Activities - Mr./Ms. Freshers</title>
     <style>
         .navbar-margin {
             margin-top: 6rem;
@@ -71,7 +71,7 @@ include 'head.html';
 
     <div class="navbar-margin"></div>
     <div class="divider-new" style="margin-bottom: 10px;">
-        <h2 class="h2-responsive" style="text-align: center;">Mr./Mrs Freshers <p style="font-size: 18px;">Freshers' 2021</p>
+        <h2 class="h2-responsive" style="text-align: center;">Mr./Ms. Freshers <p style="font-size: 18px;">Freshers' 2021</p>
         </h2>
     </div>
     <div id="vid-container" class="flex-center video-container">
