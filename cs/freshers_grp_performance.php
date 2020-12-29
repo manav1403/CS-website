@@ -108,7 +108,6 @@ include 'head.html';
         if ($start < 0) $start = $total;
         for ($i = $start; $i < min($total, $start + $entry_per_page); $i++) {
             $entry = $content[$i];
-            if ($entry["category"] != "Drama") continue;
             echo '<div class="col-lg-4 col-md-12 video-entry">';
             echo '<div class="iframe-holder">';
             echo '<iframe src="' . $entry["link"] . '" width="440" height="280" frameborder="0" loading="lazy" allowfullscreen> </iframe>';
