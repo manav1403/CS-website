@@ -2,7 +2,7 @@
     include 'head.html';
 ?>
 <head>
-    <title>CS team - UG</title>
+    <title>SWC team - UG</title>
 </head>
 <body>
 <!--Navbar-->
