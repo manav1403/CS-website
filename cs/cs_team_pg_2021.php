@@ -29,7 +29,7 @@ include 'navbar.html';
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
 
-            echo '<div class="col-lg-6 col-md-6 mb-r animate-profile invisible" style="margin: auto">';
+            echo '<div class="col-lg-6 col-md-6 mb-r animate-profile invisible">';
             echo '<div class="avatar">';
             echo '<img src="images/sqloader.gif" data-src="' . $entry["image"] . '" class="lazyload rounded-circle">';
             echo '</div>';
@@ -67,7 +67,7 @@ include 'navbar.html';
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
 
-            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible" style="margin: auto">';
+            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
             echo '<div class="avatar">';
             echo '<img src="images/sqloader.gif" data-src="' . $entry["image"] . '" class="lazyload rounded-circle">';
             echo '</div>';
@@ -106,7 +106,7 @@ include 'navbar.html';
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
 
-            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible" style="margin: auto">';
+            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
             echo '<div class="avatar">';
             echo '<img src="images/sqloader.gif" data-src="' . $entry["image"] . '" class="lazyload rounded-circle">';
             echo '</div>';
