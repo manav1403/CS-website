@@ -40,6 +40,7 @@ include 'navbar.html';
                 echo '<h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=' . $entry["whatsapp"] . '">+91-' . $entry["whatsapp"] . '</a></h5>';
             }
             echo '<h5><strong>Hometown: </strong>' . $entry["place"] . '<br><strong>Branch: </strong>' . $entry["branch"] . '</h5>';
+            echo '<p>' . $entry["about"] . '</p>';
             if($entry["email"] !== ""){
                 echo '<a class="icons-sm email-ic" href="mailto:' . $entry["email"] . '"><i class="fa fa-envelope-o"></i> </a>';
             }
@@ -81,6 +82,7 @@ include 'navbar.html';
                 echo '<h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=' . $entry["whatsapp"] . '">+91-' . $entry["whatsapp"] . '</a></h5>';
             }
             echo '<h5><strong>Hometown: </strong>' . $entry["place"] . '<br><strong>Branch: </strong>' . $entry["branch"] . '</h5>';
+            echo '<p>' . $entry["about"] . '</p>';
             if($entry["email"] !== ""){
                 echo '<a class="icons-sm email-ic" href="mailto:' . $entry["email"] . '"><i class="fa fa-envelope-o"></i> </a>';
             }
