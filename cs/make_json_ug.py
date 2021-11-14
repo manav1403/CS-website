@@ -9,7 +9,7 @@ def make_json(csvFilePath, jsonFilePath):
     
     ls=[] 
     # Open a csv reader called DictReader 
-    with open(csvFilePath, 'r', encoding='utf-8',) as csvf: 
+    with open(csvFilePath, 'r', encoding='unicode_escape',) as csvf: 
         csvReader = csv.reader(csvf) 
           
         # Convert each row into a dictionary  
