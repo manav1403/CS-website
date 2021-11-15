@@ -106,7 +106,7 @@ include 'navbar.html';
     <div class="row text-center" id = "student-guide">
     <?php
         $content = json_decode(file_get_contents('./swc_ug_team_2021.json'), true);
-        $start = 12;
+        $start = 11;
         $end = 57;
 
         $role = '(SG).jpg';
