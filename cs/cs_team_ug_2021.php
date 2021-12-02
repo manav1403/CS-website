@@ -106,18 +106,13 @@ include 'navbar.html';
     <?php
         $content = json_decode(file_get_contents('./swc_ug_team_2021.json'), true);
         $start = 11;
-        $end = 57;
+        $end = 56;
 
         $role = '(SG).jpg';
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
-            if($i!=56){
-                echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
-            }
-            else{
-                echo '<div class="col-lg-12 col-md-12 mb-r animate-profile invisible">';
-            }
+            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
             echo '<div class="avatar">';
             echo '<img src="images/sqloader.gif" data-src="' . $entry["image"].$role . '" class="lazyload rounded-circle">';
             echo '</div>';
