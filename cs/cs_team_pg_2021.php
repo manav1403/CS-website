@@ -23,8 +23,8 @@ include 'navbar.html';
     <div class="row text-center" id = "head">
         <?php
         $content = json_decode(file_get_contents('./swc_pg_team_2021.json'), true);
-        $start = 27;
-        $end = 29;
+        $start = 30;
+        $end = 32;
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
@@ -62,7 +62,7 @@ include 'navbar.html';
     <?php
         $content = json_decode(file_get_contents('./swc_pg_team_2021.json'), true);
         $start = 0;
-        $end = 6;
+        $end = 9;
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
@@ -100,8 +100,8 @@ include 'navbar.html';
     <div class="row text-center" id="student-guide">
     <?php
         $content = json_decode(file_get_contents('./swc_pg_team_2021.json'), true);
-        $start = 6;
-        $end = 27;
+        $start = 9;
+        $end = 30;
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
