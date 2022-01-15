@@ -72,7 +72,46 @@ include 'navbar.html';
         
         for ($i = $start; $i < $end; $i++) {
             $entry = $content[$i];
+            echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
+            echo '<div class="avatar">';
+            echo '<img src="images/sqloader.gif" data-src="' . $entry["image"].$role . '" class="lazyload rounded-circle">';
+            echo '</div>';
+            echo '<h4>' . $entry["name"] . '</h4>';
+            if($entry["whatsapp"] !== ""){
+                echo '<h5><i class="icons-sm-i fa fa-whatsapp green-text"></i><a href="https://api.whatsapp.com/send?phone=' . $entry["whatsapp"] . '">+91-' . $entry["whatsapp"] . '</a></h5>';
+            }
+            echo '<h5><strong>Hometown: </strong>' . $entry["place"] . '<br><strong>Branch: </strong>' . $entry["branch"] . '</h5>';
+            echo '<p>' . $entry["about"] . '</p>';
+            if($entry["email"] !== ""){
+                echo '<a class="icons-sm email-ic" href="mailto:' . $entry["email"] . '"><i class="fa fa-envelope-o"></i> </a>';
+            }
+            if($entry["fb"] !== ""){
+                echo '<a class="icons-sm fb-ic" target="_blank" href="' . $entry["fb"] . '"><i class="fa fa-facebook"> </i></a>';
+            }
+            if($entry["instagram"] !== ""){
+                echo '<a class="icons-sm ins-ic" target="_blank" href="' . $entry["instagram"] . '"><i class="fa fa-instagram"> </i></a>';
+            }
+            if($entry["linkedin"] !== ""){
+                echo '<a class="icons-sm li-ic" target="_blank" href="' . $entry["linkedin"] . '"><i class="fa fa-linkedin"></i></a>';
+            }
+            echo '</div>';
+        }
+        ?>
+    </div>
 
+    <div class="divider-new">
+        <h2 class="h2-responsive">Student Guides</h2>
+    </div>
+    <div class="row text-center" id = "student-guide">
+    <?php
+        $content = json_decode(file_get_contents('./swc_ug_team_2021.json'), true);
+        $start = 11;
+        $end = 56;
+
+        $role = '(SG).jpg';
+        
+        for ($i = $start; $i < $end; $i++) {
+            $entry = $content[$i];
             echo '<div class="col-lg-4 col-md-4 mb-r animate-profile invisible">';
             echo '<div class="avatar">';
             echo '<img src="images/sqloader.gif" data-src="' . $entry["image"].$role . '" class="lazyload rounded-circle">';

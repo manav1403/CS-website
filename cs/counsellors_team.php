@@ -33,11 +33,11 @@ include 'navbar.html';
         </div>
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/abhilasha_chouhan.jpg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Anannya_Sharma.jpg" class="lazyload rounded-circle">
             </div>
-            <h4>Abhilasha Chouhan</h4>
-            <h5><strong>Contact : </strong>+91 72328 23131</h5>
-            <a class="icons-sm email-ic" href="mailto:abhilasha@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
+            <h4>Anannya Sharma</h4>
+            <h5><strong>Contact : </strong>+91 7023761903</h5>
+            <a class="icons-sm email-ic" href="mailto:anannyasharma@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div>
     </div>
 </section>
